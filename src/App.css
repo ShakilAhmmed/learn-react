@@ -27,6 +27,12 @@
 .App-link {
   color: #61dafb;
 }
+.badge-success {
+  background-color: #199f4f;
+}
+.badge-danger {
+  background-color: #ff0101;
+}
 
 @keyframes App-logo-spin {
   from {
